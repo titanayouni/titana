@@ -1,6 +1,4 @@
-{
-	"latest_version": "0.1.2",
-	"build_identifier": "39",
-	"download_url_mac": "https://www.dropbox.com/scl/fi/vligfan3veq8hlucbjfrl/titana_0.1.2_Alpha_Build_39_for_mac.zip?rlkey=79ajuq2ubbct7advk7boigzcf&dl=0",
-	"download_url_mac": "https://www.dropbox.com/scl/fi/mz2yaf70smb3xgxhr3ji3/titana_0.1.2_Alpha_Build_39_for_windows.zip?rlkey=nlqb3uisrs9fv0ik885zwsx0i&dl=0"
-}
+latest_version=0.1.2
+build_identifier=39
+download_url_mac=https://www.dropbox.com/scl/fi/vligfan3veq8hlucbjfrl/titana_0.1.2_Alpha_Build_39_for_mac.zip?rlkey=79ajuq2ubbct7advk7boigzcf&dl=0
+download_url_windows=https://www.dropbox.com/scl/fi/mz2yaf70smb3xgxhr3ji3/titana_0.1.2_Alpha_Build_39_for_windows.zip?rlkey=nlqb3uisrs9fv0ik885zwsx0i&dl=0
