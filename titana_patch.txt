@@ -1,4 +1,4 @@
-current_version=0.1.1.2
+latest_version=0.1.1.2
 beta_version=0.1.2.39
 alpha_version=0.1.2.39
 current_version_url_mac=https://www.dropbox.com/scl/fi/vligfan3veq8hlucbjfrl/titana_0.1.2_Alpha_Build_39_for_mac.zip?rlkey=79ajuq2ubbct7advk7boigzcf&dl=0
