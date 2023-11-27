@@ -1,9 +1,9 @@
 latest_version=0.1.1.2
 beta_version=0.1.2.39
 alpha_version=0.1.2.39
-latest_version_url_mac=https://www.dropbox.com/scl/fi/6v0ahiv88hee7074p95o6/titana_0.1.1_Alpha_Build_2_for_mac.zip?dl=1
-latest_version_url_windows=https://www.dropbox.com/scl/fi/hnkvm6rdx9d47x8dcqhwh/titana_0.1.1_Alpha_Build_2_for_windows.zip?dl=1
-beta_version_url_mac=https://www.dropbox.com/scl/fi/vligfan3veq8hlucbjfrl/titana_0.1.2_Alpha_Build_39_for_mac.zip?dl=1
-beta_version_url_windows=https://www.dropbox.com/scl/fi/mz2yaf70smb3xgxhr3ji3/titana_0.1.2_Alpha_Build_39_for_windows.zip?dl=1
-alpha_version_url_mac=https://www.dropbox.com/scl/fi/vligfan3veq8hlucbjfrl/titana_0.1.2_Alpha_Build_39_for_mac.zip?dl=1
-alpha_version_url_windows=https://www.dropbox.com/scl/fi/mz2yaf70smb3xgxhr3ji3/titana_0.1.2_Alpha_Build_39_for_windows.zip?dl=1
+latest_version_url_mac=https://firebasestorage.googleapis.com/v0/b/titana-b9c35.appspot.com/o/titana_0.1.1_Alpha_Build_2_for_mac.zip?alt=media&token=9982afdc-f36e-455e-85d8-6d697713e4fd
+latest_version_url_windows=https://firebasestorage.googleapis.com/v0/b/titana-b9c35.appspot.com/o/titana_0.1.1_Alpha_Build_2_for_windows.zip?alt=media&token=5bb0dc0e-7672-43f4-9d66-1147c4bc4125
+beta_version_url_mac=https://firebasestorage.googleapis.com/v0/b/titana-b9c35.appspot.com/o/titana_0.1.2_Alpha_Build_39_for_mac.zip?alt=media&token=361825fa-9a70-4633-907d-1dfa7bf8cd6e
+beta_version_url_windows=https://firebasestorage.googleapis.com/v0/b/titana-b9c35.appspot.com/o/titana_0.1.2_Alpha_Build_39_for_windows.zip?alt=media&token=6961a2a7-c079-4688-a396-cadee0fd3c86
+alpha_version_url_mac=https://firebasestorage.googleapis.com/v0/b/titana-b9c35.appspot.com/o/titana_0.1.2_Alpha_Build_39_for_mac.zip?alt=media&token=361825fa-9a70-4633-907d-1dfa7bf8cd6e
+alpha_version_url_windows=https://firebasestorage.googleapis.com/v0/b/titana-b9c35.appspot.com/o/titana_0.1.2_Alpha_Build_39_for_windows.zip?alt=media&token=6961a2a7-c079-4688-a396-cadee0fd3c86
