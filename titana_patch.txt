@@ -1,9 +1,9 @@
 latest_version=0.1.1.2
 beta_version=0.1.2.39
 alpha_version=0.1.2.39
-current_version_url_mac=https://www.dropbox.com/scl/fi/vligfan3veq8hlucbjfrl/titana_0.1.2_Alpha_Build_39_for_mac.zip?rlkey=79ajuq2ubbct7advk7boigzcf&dl=0
-current_version_url_windows=https://www.dropbox.com/scl/fi/mz2yaf70smb3xgxhr3ji3/titana_0.1.2_Alpha_Build_39_for_windows.zip?rlkey=nlqb3uisrs9fv0ik885zwsx0i&dl=0
-beta_version_url_mac=https://www.dropbox.com/scl/fi/vligfan3veq8hlucbjfrl/titana_0.1.2_Alpha_Build_39_for_mac.zip?rlkey=79ajuq2ubbct7advk7boigzcf&dl=0
-beta_version_url_windows=https://www.dropbox.com/scl/fi/mz2yaf70smb3xgxhr3ji3/titana_0.1.2_Alpha_Build_39_for_windows.zip?rlkey=nlqb3uisrs9fv0ik885zwsx0i&dl=0
-alpha_version_url_mac=https://www.dropbox.com/scl/fi/vligfan3veq8hlucbjfrl/titana_0.1.2_Alpha_Build_39_for_mac.zip?rlkey=79ajuq2ubbct7advk7boigzcf&dl=0
-alpha_version_url_windows=https://www.dropbox.com/scl/fi/mz2yaf70smb3xgxhr3ji3/titana_0.1.2_Alpha_Build_39_for_windows.zip?rlkey=nlqb3uisrs9fv0ik885zwsx0i&dl=0
+latest_version_url_mac=https://www.dropbox.com/scl/fi/6v0ahiv88hee7074p95o6/titana_0.1.1_Alpha_Build_2_for_mac.zip?rlkey=o7vftxp4g38nrfjeuyurvbcpa&dl=1
+latest_version_url_windows=https://www.dropbox.com/scl/fi/hnkvm6rdx9d47x8dcqhwh/titana_0.1.1_Alpha_Build_2_for_windows.zip?rlkey=qq9qthjtw4b0srwk81xgt1i6l&dl=1
+beta_version_url_mac=https://www.dropbox.com/scl/fi/vligfan3veq8hlucbjfrl/titana_0.1.2_Alpha_Build_39_for_mac.zip?rlkey=79ajuq2ubbct7advk7boigzcf&dl=1
+beta_version_url_windows=https://www.dropbox.com/scl/fi/mz2yaf70smb3xgxhr3ji3/titana_0.1.2_Alpha_Build_39_for_windows.zip?rlkey=nlqb3uisrs9fv0ik885zwsx0i&dl=1
+alpha_version_url_mac=https://www.dropbox.com/scl/fi/vligfan3veq8hlucbjfrl/titana_0.1.2_Alpha_Build_39_for_mac.zip?rlkey=79ajuq2ubbct7advk7boigzcf&dl=1
+alpha_version_url_windows=https://www.dropbox.com/scl/fi/mz2yaf70smb3xgxhr3ji3/titana_0.1.2_Alpha_Build_39_for_windows.zip?rlkey=nlqb3uisrs9fv0ik885zwsx0i&dl=1
