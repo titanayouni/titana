@@ -6,4 +6,4 @@ latest_version_url_windows=https://firebasestorage.googleapis.com/v0/b/titana-b9
 beta_version_url_mac=https://firebasestorage.googleapis.com/v0/b/titana-b9c35.appspot.com/o/0.1.4.12_mac.zip?alt=media&token=af90048f-1aa4-4673-8d64-f36e979b0a0d
 beta_version_url_windows=https://firebasestorage.googleapis.com/v0/b/titana-b9c35.appspot.com/o/0.1.4.12_windows.zip?alt=media&token=b78e1c91-0207-43d6-a669-eacc99e948c2
 alpha_version_url_mac=https://firebasestorage.googleapis.com/v0/b/titana-b9c35.appspot.com/o/0.1.4.12_mac.zip?alt=media&token=af90048f-1aa4-4673-8d64-f36e979b0a0d
-alpha_version_url_windows=https://firebasestorage.googleapis.com/v0/b/titana-b9c35.appspot.com/o/0.4.1.9_windows.zip?alt=media&token=2da28bf6-1f61-4ad4-957a-a38b7bc02b6a
+alpha_version_url_windows=https://firebasestorage.googleapis.com/v0/b/titana-b9c35.appspot.com/o/0.4.1.10_windows.zip?alt=media&token=a817d27f-a39f-44f1-92a6-7bf036213f79
